@@ -1,4 +1,4 @@
-# CI/CD Lab (Student Project)
+# CI/CD Lab
 
 Практика по отладке CI/CD через ИИ на базе реалистичного GitHub Actions workflow.
 
